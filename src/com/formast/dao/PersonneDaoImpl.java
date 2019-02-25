@@ -1,9 +1,9 @@
-package com.formast.dao;
+package com.formafast.dao;
 
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 
-import com.formast.entities.Test;
+import com.formafast.entities.Test;
 
 public class PersonneDaoImpl implements ITest {
 
