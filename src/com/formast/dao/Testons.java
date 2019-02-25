@@ -1,6 +1,6 @@
-package com.formast.dao;
+package com.formafast.dao;
 
-import com.formast.entities.Test;
+import com.formafast.entities.Test;
 
 public class Testons {
 
