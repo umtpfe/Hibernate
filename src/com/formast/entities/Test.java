@@ -1,5 +1,5 @@
-package com.formast.entities;
-// Generated 23 févr. 2019 21:07:17 by Hibernate Tools 3.4.0.CR1
+package com.formafast.entities;
+// Generated 23 fÃ©vr. 2019 21:07:17 by Hibernate Tools 3.4.0.CR1
 
 
 
