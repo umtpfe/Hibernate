@@ -1,4 +1,4 @@
-package com.formast.dao;
+package com.formafast.dao;
 
 import org.hibernate.*;
 import org.hibernate.cfg.*;
